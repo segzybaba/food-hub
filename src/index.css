@@ -214,6 +214,9 @@ span {
   min-height: 80vh;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
     url(./images/contact-img.jpg);
+  /* background-position: ; */
+  background-size: cover;
+  background-repeat: no-repeat;
   color: #e2dbdb;
   margin-top: 5rem;
 }
