@@ -208,7 +208,29 @@ span {
 .logo {
   position: absolute;
   bottom: 85%;
+  left: 0;
 }
+
+.header-icon {
+  position: absolute;
+  bottom: 85%;
+  right: 0;
+}
+
+.header-icon img {
+  /* display: block; */
+  width: 2rem;
+  margin: 5px;
+}
+
+.phone-ring {
+  background: #fff;
+}
+
+/* .logo {
+  position: absolute;
+  bottom: 85%;
+} */
 
 .logo span {
   font-size: 3rem;
